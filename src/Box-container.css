@@ -1,0 +1,12 @@
+.Box-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background: black;
+}
+
+.Box {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
